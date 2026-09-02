@@ -9,9 +9,8 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de Licenciatura en Sistemas - UNLP
-- 💻 Interesado en desarrollo de software y backend
-- 🚀 Actualmente trabajando en proyectos con FastAPI, Next.js y PostgreSQL
-- 📚 Actualmente profundizando en Programación Concurrente, Redes y desarrollo de software
+- 💻 Software Developer
+- 🇦🇷 La Plata, Buenos Aires, Argentina
 
 ---
 
